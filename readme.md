@@ -1,8 +1,14 @@
-Prerequisites:
-Node
-npm
+###Prerequisites:###
 
-Setup and Run:
-git clone blah
-npm install
-npm start
+* Node
+
+* npm
+
+
+###Setup and Run:###
+
+* git clone blah
+
+* npm install
+
+* npm start
